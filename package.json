@@ -1,0 +1,23 @@
+{
+  "name": "cmmc-accessories",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Light_accessory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmmakerclub/cmmc-accessories.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmmakerclub/cmmc-accessories/issues"
+  },
+  "homepage": "https://github.com/cmmakerclub/cmmc-accessories#readme",
+  "dependencies": {
+    "cmmc-mqtt": "^0.1.6",
+    "node-fetch": "^2.2.0"
+  }
+}
