@@ -1,7 +1,8 @@
-var Accessory = require('../').Accessory;
-var Service = require('../').Service;
-var Characteristic = require('../').Characteristic;
-var uuid = require('../').uuid;
+var Accessory = require('hap-nodejs').Accessory
+var Service = require('hap-nodejs').Service
+var Characteristic = require('hap-nodejs').Characteristic
+var uuid = require('hap-nodejs').uuid
+
 
 
 // here's a fake hardware device that we'll expose to HomeKit

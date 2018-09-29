@@ -18,6 +18,7 @@
   "homepage": "https://github.com/cmmakerclub/cmmc-accessories#readme",
   "dependencies": {
     "cmmc-mqtt": "^0.1.6",
+    "hap-nodejs": "^0.4.47",
     "node-fetch": "^2.2.0"
   }
 }
